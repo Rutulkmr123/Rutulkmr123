@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutul Kumar</h1>
 <h3 align="center">I am an aspiring physicist, fascinated by this amazing field called Astroparticle Physics, which has elements of both Astrophysics and Particle Physics.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/PkKzNQjwPy7GvxZbfe.webp">
-![MasterHead](https://64.media.tumblr.com/5968f27d7ef38a90d3f39c6bc9badfb3/tumblr_n1obsoQ18O1rnbafjo1_400.gifv)
+[![MasterHead](https://64.media.tumblr.com/5968f27d7ef38a90d3f39c6bc9badfb3/tumblr_n1obsoQ18O1rnbafjo1_400.gifv)]
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutulkmr123&label=Profile%20views&color=0e75b6&style=flat" alt="rutulkmr123" /> </p>
